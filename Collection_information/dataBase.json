@@ -1,7 +1,7 @@
 {
   "brewery": [
     {
-      "id": "1a2e",
+      "id": "1575",
       "brewery_name": "(405) Brewing Co",
       "brewery_city": "Norman",
       "brewery_country": "United States",
@@ -11,7 +11,7 @@
       "brewery_website": "http://www.405brewing.com"
     },
     {
-      "id": "0710",
+      "id": "28bc",
       "brewery_name": "1 of Us Brewing Company",
       "brewery_city": "Mount Pleasant",
       "brewery_country": "United States",
@@ -21,7 +21,7 @@
       "brewery_website": "https://www.1ofusbrewing.com"
     },
     {
-      "id": "2977",
+      "id": "675c",
       "brewery_name": "10 Barrel Brewing Co",
       "brewery_city": "San Diego",
       "brewery_country": "United States",
@@ -31,7 +31,7 @@
       "brewery_website": "http://10barrel.com"
     },
     {
-      "id": "2de8",
+      "id": "de8c",
       "brewery_name": "10 Barrel Brewing Co",
       "brewery_city": "Bend",
       "brewery_country": "United States",
@@ -41,7 +41,7 @@
       "brewery_website": "http://www.10barrel.com"
     },
     {
-      "id": "104a",
+      "id": "dbeb",
       "brewery_name": "10 Barrel Brewing Co",
       "brewery_city": "Bend",
       "brewery_country": "United States",
@@ -51,7 +51,7 @@
       "brewery_website": null
     },
     {
-      "id": "9045",
+      "id": "60b7",
       "brewery_name": "10 Barrel Brewing Co",
       "brewery_city": "Portland",
       "brewery_country": "United States",
@@ -61,7 +61,7 @@
       "brewery_website": "http://www.10barrel.com"
     },
     {
-      "id": "1491",
+      "id": "638e",
       "brewery_name": "10 Barrel Brewing Co - Bend Pub",
       "brewery_city": "Bend",
       "brewery_country": "United States",
@@ -71,7 +71,7 @@
       "brewery_website": null
     },
     {
-      "id": "33a4",
+      "id": "d0fa",
       "brewery_name": "10 Barrel Brewing Co - Boise",
       "brewery_city": "Boise",
       "brewery_country": "United States",
@@ -81,7 +81,7 @@
       "brewery_website": "http://www.10barrel.com"
     },
     {
-      "id": "54dd",
+      "id": "25c7",
       "brewery_name": "10 Barrel Brewing Co - Denver",
       "brewery_city": "Denver",
       "brewery_country": "United States",
@@ -91,7 +91,7 @@
       "brewery_website": null
     },
     {
-      "id": "e585",
+      "id": "732b",
       "brewery_name": "10 Torr Distilling and Brewing",
       "brewery_city": "Reno",
       "brewery_country": "United States",
@@ -101,47 +101,7 @@
       "brewery_website": "http://www.10torr.com"
     },
     {
-      "id": "fb5e",
-      "brewery_name": "10-56 Brewing Company",
-      "brewery_city": "Knox",
-      "brewery_country": "United States",
-      "brewery_phone": "6308165790",
-      "brewery_postal_code": "46534",
-      "brewery_state": "Indiana",
-      "brewery_website": null
-    },
-    {
-      "id": "5e83",
-      "brewery_name": "101 Brewery",
-      "brewery_city": "Quilcene",
-      "brewery_country": "United States",
-      "brewery_phone": "3607656485",
-      "brewery_postal_code": "98376-9000",
-      "brewery_state": "Washington",
-      "brewery_website": "http://www.101brewery.com"
-    },
-    {
-      "id": "6037",
-      "brewery_name": "101 North Brewing Company",
-      "brewery_city": "Petaluma",
-      "brewery_country": "United States",
-      "brewery_phone": "7077534934",
-      "brewery_postal_code": "94954-7100",
-      "brewery_state": "California",
-      "brewery_website": "http://www.101northbeer.com"
-    },
-    {
-      "id": "2114",
-      "brewery_name": "105 West Brewing Co",
-      "brewery_city": "Castle Rock",
-      "brewery_country": "United States",
-      "brewery_phone": "3033257321",
-      "brewery_postal_code": "80109-1585",
-      "brewery_state": "Colorado",
-      "brewery_website": "http://www.105westbrewing.com"
-    },
-    {
-      "id": "37de",
+      "id": "2ee6",
       "brewery_name": "(512) Brewing Co",
       "brewery_city": "Austin",
       "brewery_country": "United States",
@@ -151,7 +111,47 @@
       "brewery_website": "http://www.512brewing.com"
     },
     {
-      "id": "95e5",
+      "id": "a236",
+      "brewery_name": "10-56 Brewing Company",
+      "brewery_city": "Knox",
+      "brewery_country": "United States",
+      "brewery_phone": "6308165790",
+      "brewery_postal_code": "46534",
+      "brewery_state": "Indiana",
+      "brewery_website": null
+    },
+    {
+      "id": "73bc",
+      "brewery_name": "101 Brewery",
+      "brewery_city": "Quilcene",
+      "brewery_country": "United States",
+      "brewery_phone": "3607656485",
+      "brewery_postal_code": "98376-9000",
+      "brewery_state": "Washington",
+      "brewery_website": "http://www.101brewery.com"
+    },
+    {
+      "id": "fbfc",
+      "brewery_name": "101 North Brewing Company",
+      "brewery_city": "Petaluma",
+      "brewery_country": "United States",
+      "brewery_phone": "7077534934",
+      "brewery_postal_code": "94954-7100",
+      "brewery_state": "California",
+      "brewery_website": "http://www.101northbeer.com"
+    },
+    {
+      "id": "368e",
+      "brewery_name": "105 West Brewing Co",
+      "brewery_city": "Castle Rock",
+      "brewery_country": "United States",
+      "brewery_phone": "3033257321",
+      "brewery_postal_code": "80109-1585",
+      "brewery_state": "Colorado",
+      "brewery_website": "http://www.105westbrewing.com"
+    },
+    {
+      "id": "ae10",
       "brewery_name": "10K Brewing",
       "brewery_city": "Anoka",
       "brewery_country": "United States",
@@ -161,7 +161,7 @@
       "brewery_website": "http://10KBrew.com"
     },
     {
-      "id": "fa41",
+      "id": "5486",
       "brewery_name": "10th District Brewing Company",
       "brewery_city": "Abington",
       "brewery_country": "United States",
@@ -171,7 +171,7 @@
       "brewery_website": "http://www.10thdistrictbrewing.com"
     },
     {
-      "id": "73e7",
+      "id": "2186",
       "brewery_name": "11 Below Brewing Company",
       "brewery_city": "Houston",
       "brewery_country": "United States",
@@ -181,7 +181,7 @@
       "brewery_website": "http://www.11belowbrewing.com"
     },
     {
-      "id": "2341",
+      "id": "510b",
       "brewery_name": "1188 Brewing Co",
       "brewery_city": "John Day",
       "brewery_country": "United States",
@@ -191,7 +191,7 @@
       "brewery_website": "http://www.1188brewing.com"
     },
     {
-      "id": "80ce",
+      "id": "0cbf",
       "brewery_name": "12 Acres Brewing Company",
       "brewery_city": "Killeshin",
       "brewery_country": "Ireland",
@@ -201,7 +201,7 @@
       "brewery_website": "https://12acresbrewing.ie/"
     },
     {
-      "id": "916e",
+      "id": "149d",
       "brewery_name": "12 Gates Brewing Company",
       "brewery_city": "Williamsville",
       "brewery_country": "United States",
@@ -211,7 +211,7 @@
       "brewery_website": "http://www.12gatesbrewing.com"
     },
     {
-      "id": "e574",
+      "id": "4078",
       "brewery_name": "12 West Brewing Company",
       "brewery_city": "Gilbert",
       "brewery_country": "United States",
@@ -221,7 +221,7 @@
       "brewery_website": "http://www.12westbrewing.com"
     },
     {
-      "id": "7bd7",
+      "id": "f985",
       "brewery_name": "12 West Brewing Company - Production Facility",
       "brewery_city": "Mesa",
       "brewery_country": "United States",
@@ -231,7 +231,7 @@
       "brewery_website": null
     },
     {
-      "id": "d8aa",
+      "id": "7900",
       "brewery_name": "122 West Brewing Co",
       "brewery_city": "Bellingham",
       "brewery_country": "United States",
@@ -241,7 +241,7 @@
       "brewery_website": "https://www.122westbrew.com/"
     },
     {
-      "id": "7f44",
+      "id": "8d05",
       "brewery_name": "127 Brewing",
       "brewery_city": "Jackson",
       "brewery_country": "United States",
@@ -251,7 +251,7 @@
       "brewery_website": null
     },
     {
-      "id": "e5f5",
+      "id": "c5ff",
       "brewery_name": "12Degree Brewing",
       "brewery_city": "Louisville",
       "brewery_country": "United States",
@@ -261,7 +261,7 @@
       "brewery_website": "http://www.12degree.com"
     },
     {
-      "id": "f6b3",
+      "id": "4cfe",
       "brewery_name": "12welve Eyes Brewing",
       "brewery_city": "Saint Paul",
       "brewery_country": "United States",
@@ -271,7 +271,7 @@
       "brewery_website": "http://www.12welveEyes.com"
     },
     {
-      "id": "05d7",
+      "id": "b873",
       "brewery_name": "13 Below Brewery",
       "brewery_city": "Cincinnati",
       "brewery_country": "United States",
@@ -281,7 +281,7 @@
       "brewery_website": "http://www.13belowbrewery.com"
     },
     {
-      "id": "ae9a",
+      "id": "0ca9",
       "brewery_name": "13 Stripes Brewery",
       "brewery_city": "Taylors",
       "brewery_country": "United States",
@@ -291,7 +291,7 @@
       "brewery_website": "http://www.13StripesBrewery.com"
     },
     {
-      "id": "4c74",
+      "id": "9175",
       "brewery_name": "13 Virtues Brewing Co",
       "brewery_city": "Portland",
       "brewery_country": "United States",
@@ -301,7 +301,7 @@
       "brewery_website": "http://www.13virtuesbrewing.com"
     },
     {
-      "id": "cdab",
+      "id": "a3a1",
       "brewery_name": "1323 R & D",
       "brewery_city": "Raleigh",
       "brewery_country": "United States",
@@ -311,7 +311,7 @@
       "brewery_website": "http://www.1323rnd.com"
     },
     {
-      "id": "72cb",
+      "id": "ac0e",
       "brewery_name": "14 Cannons Brewing Company",
       "brewery_city": "Westlake Village",
       "brewery_country": "United States",
@@ -321,7 +321,7 @@
       "brewery_website": "http://14cannons.com"
     },
     {
-      "id": "ab8b",
+      "id": "ac34",
       "brewery_name": "14 Lakes Brewery",
       "brewery_city": "Crosslake",
       "brewery_country": "United States",
@@ -331,7 +331,7 @@
       "brewery_website": null
     },
     {
-      "id": "d59e",
+      "id": "efd9",
       "brewery_name": "14er Brewing Company",
       "brewery_city": "Denver",
       "brewery_country": "United States",
@@ -341,7 +341,7 @@
       "brewery_website": "http://www.14erBrewing.com"
     },
     {
-      "id": "d81c",
+      "id": "589a",
       "brewery_name": "14th Star Brewing",
       "brewery_city": "Saint Albans",
       "brewery_country": "United States",
@@ -351,7 +351,7 @@
       "brewery_website": "http://www.14thstarbrewing.com"
     },
     {
-      "id": "a894",
+      "id": "7247",
       "brewery_name": "16 Lots Brewing",
       "brewery_city": "Mason",
       "brewery_country": "United States",
@@ -361,7 +361,7 @@
       "brewery_website": "http://www.16lots.com"
     },
     {
-      "id": "9633",
+      "id": "af55",
       "brewery_name": "16 Mile Brewing Co",
       "brewery_city": "Georgetown",
       "brewery_country": "United States",
@@ -371,7 +371,7 @@
       "brewery_website": "http://www.16milebrewery.com"
     },
     {
-      "id": "037c",
+      "id": "16d7",
       "brewery_name": "16 Stone Brewpub",
       "brewery_city": "Holland Patent",
       "brewery_country": "United States",
@@ -381,7 +381,7 @@
       "brewery_website": "http://www.16stonebrewpub.com"
     },
     {
-      "id": "2097",
+      "id": "fb22",
       "brewery_name": "1623 Brewing CO, llc",
       "brewery_city": "Westminister",
       "brewery_country": "United States",
@@ -391,17 +391,7 @@
       "brewery_website": null
     },
     {
-      "id": "a537",
-      "brewery_name": "1717 Brewing Co",
-      "brewery_city": "Des Moines",
-      "brewery_country": "United States",
-      "brewery_phone": "5152437868",
-      "brewery_postal_code": "50309-2015",
-      "brewery_state": "Iowa",
-      "brewery_website": "http://1717brewing.com"
-    },
-    {
-      "id": "ad17",
+      "id": "a9e0",
       "brewery_name": "1718 Ocracoke Brewing",
       "brewery_city": "Ocracoke",
       "brewery_country": "United States",
@@ -411,7 +401,17 @@
       "brewery_website": "http://www.ocracokebrewing.com"
     },
     {
-      "id": "7bd2",
+      "id": "c820",
+      "brewery_name": "1717 Brewing Co",
+      "brewery_city": "Des Moines",
+      "brewery_country": "United States",
+      "brewery_phone": "5152437868",
+      "brewery_postal_code": "50309-2015",
+      "brewery_state": "Iowa",
+      "brewery_website": "http://1717brewing.com"
+    },
+    {
+      "id": "6679",
       "brewery_name": "1781 Brewing Company",
       "brewery_city": "Spotsylvania",
       "brewery_country": "United States",
@@ -421,7 +421,7 @@
       "brewery_website": null
     },
     {
-      "id": "a1c5",
+      "id": "cbde",
       "brewery_name": "180 and Tapped",
       "brewery_city": "Coraopolis",
       "brewery_country": "United States",
@@ -431,7 +431,7 @@
       "brewery_website": "http://www.180andtapped.com"
     },
     {
-      "id": "ff76",
+      "id": "ea87",
       "brewery_name": "1817 Brewery",
       "brewery_city": "okolona",
       "brewery_country": "United States",
@@ -441,7 +441,7 @@
       "brewery_website": null
     },
     {
-      "id": "d116",
+      "id": "84bb",
       "brewery_name": "1840 Brewing Company",
       "brewery_city": "Milwaukee",
       "brewery_country": "United States",
@@ -451,7 +451,7 @@
       "brewery_website": "http://www.1840brewing.com"
     },
     {
-      "id": "ef4a",
+      "id": "cd36",
       "brewery_name": "1850 Brewing Company",
       "brewery_city": "Mariposa",
       "brewery_country": "United States",
@@ -461,7 +461,7 @@
       "brewery_website": "http://www.1850restaurant.com"
     },
     {
-      "id": "5dd5",
+      "id": "5793",
       "brewery_name": "18th Street Brewery",
       "brewery_city": "Gary",
       "brewery_country": "United States",
@@ -471,7 +471,7 @@
       "brewery_website": "http://www.18thstreetbrewery.com"
     },
     {
-      "id": "8972",
+      "id": "a958",
       "brewery_name": "18th Street Brewery",
       "brewery_city": "Hammond",
       "brewery_country": "United States",
@@ -481,7 +481,7 @@
       "brewery_website": null
     },
     {
-      "id": "b4d9",
+      "id": "a690",
       "brewery_name": "1905 Brewing Company",
       "brewery_city": "Assumption",
       "brewery_country": "United States",
@@ -491,7 +491,7 @@
       "brewery_website": "http://1905BrewingCompany.com"
     },
     {
-      "id": "eaf9",
+      "id": "2016",
       "brewery_name": "1912 Brewing",
       "brewery_city": "Tucson",
       "brewery_country": "United States",

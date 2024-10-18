@@ -1,7 +1,7 @@
 
 body {
     height: 100vh;
-    background-image: url("./Image/background.jpg");
+    background-image: url("../Image/background.jpg");
     background-repeat:round;
     display: flex;
     justify-content: center;
@@ -35,6 +35,9 @@ img {
     font-size: large;
     font-family: 'Courier New', Courier, monospace;
     font-size: 2rem;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 15px;
 }
 
 #valider:hover {
